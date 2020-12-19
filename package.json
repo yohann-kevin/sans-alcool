@@ -1,0 +1,14 @@
+{
+  "name": "testcda1",
+  "version": "1.0.0",
+  "description": "test for cda 1",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "PERRIGUEY Yohann",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
