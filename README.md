@@ -1,5 +1,7 @@
 # Sans Alcool
 
+[![Maintainability](https://api.codeclimate.com/v1/badges/21b839f4aa397adbe64f/maintainability)](https://codeclimate.com/github/yohann-kevin/sans-alcool/maintainability)
+
 ## Documentation du projet :
 
 ### Nom du projet :
@@ -16,7 +18,7 @@ PERRIGUEY Yohann
 
 ### Description du projet :
 
-Création d'un couplet de la musique 99 shooters pour le CDA
+Création d'un couplet de la musique 99 shooters pour nico ! 😃
 
 ### Démarrer le projet :
 
@@ -35,7 +37,7 @@ Ensuite vous devrez vous rendre à la racine du projet :
 
 ```
 
-cd thisProject
+cd sans-alcool
 
 ```
 
