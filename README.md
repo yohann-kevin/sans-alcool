@@ -1,24 +1,24 @@
 # Sans Alcool
 
-## Documentation du projet
+## Documentation du projet :
 
-# languages utilisés :
-
-* javascript
-
-### Nom du projet
+### Nom du projet :
 
 Sans alcool
 
-### Auteur
+### Auteur :
 
 PERRIGUEY Yohann
 
-### Description du projet
+### languages utilisés :
+
+* javascript
+
+### Description du projet :
 
 Création d'un couplet de la musique 99 shooters pour le CDA
 
-### Démarrer le projet
+### Démarrer le projet :
 
 Pour commencer vous allez devoir cloné le projet via le bouton (clone or download) en haut à droite
 ou via git en utilisant la commande :
