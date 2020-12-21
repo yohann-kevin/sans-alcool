@@ -2,6 +2,10 @@
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/21b839f4aa397adbe64f/maintainability)](https://codeclimate.com/github/yohann-kevin/sans-alcool/maintainability)
 
+<div align="center">
+    <img src="images/SansAlcool.png">
+</div>
+
 ## Documentation du projet :
 
 ### Nom du projet :
