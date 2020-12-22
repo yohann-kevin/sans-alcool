@@ -16,7 +16,7 @@ Sans alcool
 
 PERRIGUEY Yohann
 
-### languages utilisés :
+### langages utilisés :
 
 * javascript
 
@@ -26,7 +26,7 @@ Création d'un couplet de la musique 99 shooters pour nico ! 😃
 
 ### Démarrer le projet :
 
-Pour commencer vous allez devoir cloné le projet via le bouton (clone or download) en haut à droite
+Pour commencer, vous allez devoir cloné le projet via le bouton (clone or download) en haut à droite 
 ou via git en utilisant la commande :
 
 
@@ -36,7 +36,7 @@ git clone
 
 ```
 
-Ensuite vous devrez vous rendre à la racine du projet : 
+Ensuite, vous devrez vous rendre à la racine du projet : 
 
 
 ```
@@ -45,7 +45,7 @@ cd sans-alcool
 
 ```
 
-Pour pouvoir utilisé ce programme vous devrez installez les dépendences en tapant la commande suivante : 
+Pour pouvoir utilisé ce programme, vous devrez installer les dépendances en tapant la commande suivante : 
 
 
 ```
